@@ -1,0 +1,35 @@
+.country-card{
+    width:max-content;
+    padding:10px;
+}
+   
+
+.country-card__img-container img{
+    height:180px;
+    width:280px
+}
+
+
+.country_card__country-name{
+    padding-block:5px;
+}
+
+.country_card__country-name-btn{
+    height:40px;
+    min-width:50px;
+    padding-block:5px;
+    padding-inline:10px;
+    background:#87CEEB;
+    border:none;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    gap:5px;
+    cursor:pointer;
+}
+
+.country_card__country-name-btn:hover{
+ background:#a9d6e8;
+}
+
+

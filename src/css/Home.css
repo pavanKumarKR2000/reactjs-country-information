@@ -1,0 +1,10 @@
+
+.countries-card-container{
+    margin-block:50px;
+    padding:20px;
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    justify-items:center;
+    grid-column-gap:50px;
+    grid-row-gap:20px;
+}

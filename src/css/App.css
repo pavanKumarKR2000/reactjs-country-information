@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import './Navbar.css';
+@import './CountryCard.css';
+@import './Home.css';
+@import './Country.css';
+@import './CountryInfo.css';
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    font-family:overpass;
+}
+
+body{
+    background-color: whitesmoke;
+}
