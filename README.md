@@ -1,3 +1,3 @@
 # reactjs-country-information
-![banner](https://drive.google.com/file/d/1E1juH1QqZRu1jK1zVRbvJyDBa7sfJ34h/view?usp=sharing)
+![banner](https://github.com/pavanKumarKR2000/reactjs-country-information/blob/main/country-info.png)
 [demo link ->](https://pavankumarkr2000.github.io/reactjs-country-information/) 
